@@ -1,3 +1,6 @@
+# PTS2
+PTS2 - workaround to play the sims the 2 game on mobox box86
+
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
