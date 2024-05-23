@@ -1,4 +1,4 @@
-# PTS2
+# Play The Sims 2 (PTS2)
 
 <!-- Improved compatibility of back to top link: See: https://github.com/erfan2255/PTS2 -->
 <a name="readme-top"></a>
