@@ -1,1 +1,0 @@
-start "Touchup" "C:\The Sims 2 Ultimate Collection\__Installer\Touchup.exe" install -locale en_US -installPath "C:\The Sims 2 Ultimate Collection" -autologging"
