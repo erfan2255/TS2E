@@ -30,9 +30,9 @@
     <br />
     <a href="https://youtube.com/@coreland2">Youtube</a>
     ·
-    <a href="https://t.me/coreland">Telegram</a>
+    <a href="https://55woodlandrive.tumblr.com/post/643865013442969600/this-is-a-re-upload-of-g4tws-the-sims-2-origin">The Sims 2 Ultimate Collection</a>
     ·
-    <a href="[github.com/erfan2255/PTS2](https://55woodlandrive.tumblr.com/post/643865013442969600/this-is-a-re-upload-of-g4tws-the-sims-2-origin)">The Sims 2 Ultimate Collection</a>
+    <a href="https://t.me/coreland">Telegram</a>
   </p>
 </div>
 
