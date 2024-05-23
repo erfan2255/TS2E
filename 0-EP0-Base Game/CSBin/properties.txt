@@ -1,0 +1,5 @@
+capabilities=none
+locale=any
+platform=any
+publish.time=1130178532079
+segment=any/any

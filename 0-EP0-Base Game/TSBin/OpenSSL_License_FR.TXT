@@ -1,0 +1,136 @@
+
+  ACCORD DE LICENCE
+  =================
+
+  Le logiciel OpenSSL est réglementé par une licence cumulative, les
+  termes de la licence OpenSSL et de la licence originale SSLeay sont
+  donc appliqués à ce produit. Les textes de licence se trouvent ci-après.
+  Les deux licences sont de type BSD Open Source. En cas de problème
+  avec une des licences relatives à OpenSSL, veuillez contacter
+  openssl-core@openssl.org.
+
+  Licence OpenSSL
+  ---------------
+
+/* ====================================================================
+ * Copyright (c) 1998-2004 The OpenSSL Project. Tous droits réservés.
+ *
+ * La redistribution et l'utilisation au format source ou binaire, 
+ * avec ou sans modification, sont autorisées sous réserve que les
+ * conditions suivantes soient respectées :
+ *
+ * 1. Les redistributions du code source doivent faire mention de
+ * la notice de copyright ci-dessus, de la présente liste de conditions
+ * et de l'exclusion de responsabilité suivante.
+ *
+ * 2. Les redistributions au format binaire doivent faire mention de
+ * la notice de copyright précédente, de la présente liste de conditions
+ * et de l'exclusion de responsabilité suivante dans la documentation et/ou
+ * dans tout autre document fourni avec la distribution.
+ *
+ * 3. Tous les éléments de publicité qui font référence aux fonctions
+ * ou à l'utilisation de ce logiciel doivent porter la mention suivante :
+ * "Ce produit comprend un logiciel développé par OpenSSL Project pour
+ * OpenSSL Toolkit (http://www.openssl.org/)."
+ *
+ * 4. Les noms "OpenSSL" et "OpenSSL Project" ne doivent pas être
+ * utilisés pour valider ou promouvoir des produits dérivés de ce logiciel
+ * sans autorisation écrite préalable. Pour obtenir une autorisation écrite,
+ * veuillez contacter opensslcore@openssl.org.
+ *
+ * 5. Les produits dérivés de ce logiciel ne peuvent pas porter le nom
+ * "OpenSSL", et le nom "OpenSSL" ne peut pas être inclus dans leur nom sans
+ * autorisation écrite préalable de The OpenSSL Project.
+ *
+ * 6. Toute redistribution, quelle qu'en soit la forme, doit porter la
+ * mention suivante : "Ce produit comprend des logiciels développés par
+ * OpenSSL Project pour OpenSSL Toolkit (http://www.openssl.org/)."
+ *
+ * LE PRESENT DOCUMENT EST LIVRE EN L'ETAT PAR OpenSSL PROJECT. OpenSSL
+ * PROJECT N'OFFRE AUCUNE GARANTIE EXPLICITE OU IMPLICITE, NOTAMMENT
+ * EN CE QUI CONCERNE LES GARANTIES DE VALEUR MARCHANDE OU
+ * D'ADAPTATION A VOS BESOINS. EN AUCUN CAS OpenSSL PROJECT OU SES
+ * PARTENAIRES NE SERONT RESPONSABLES DES PREJUDICES DIRECTS,
+ * INDIRECTS, ACCESSOIRES, SPECIAUX, EXEMPLAIRES OU CONSECUTIFS
+ * (NOTAMMENT L'ACQUISITION DE MARCHANDISES OU DE SERVICES DE
+ * REMPLACEMENT, LA PERTE DE L'USAGE DU PRODUIT, DE DONNEES, DE
+ * BENEFICES OU L'INTERRUPTION DES ACTIVITES) QUELLE QU'EN SOIT LA
+ * CAUSE ET QUEL QUE SOIT LE FONDEMENT DU RECOURS EN RESPONSABILITE,
+ * CONTRACTUEL, RESPONSABILITE LEGALE OU FAUTE (NEGLIGENCE OU AUTRE
+ * COMPRIS), LIES D'UNE MANIERE QUELCONQUE A L'UTILISATION DE CE
+ * LOGICIEL MEME SI LA POSSIBILITE DE TELS DOMMAGES A ETE MENTIONNEE.
+ * ====================================================================
+ *
+ * Ce produit comprend un logiciel cryptographique créé par Eric Young
+ * (eay@cryptsoft.com). Ce produit comprend un logiciel créé par Tim
+ * Hudson (tjh@cryptsoft.com).
+ *
+ */
+
+ Licence SSLeay d'origine
+ -----------------------
+
+/* Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com)
+ * Tous droits réservés.
+ *
+ * Ce package est une mise en oeuvre SSL créée par Eric Young 
+ * (eay@cryptsoft.com). L'implémentation a été créée pour être en conformité
+ * avec la version SSL de Netscape.
+ * 
+ * Cette bibliothèque peut être librement utilisée pour une utilisation
+ * commerciale et non commerciale tant que les conditions suivantes sont
+ * respectées. Les conditions suivantes s'appliquent à tous les codes présents
+ * dans cette distribution, notamment pour les codes RC4, RSA, lhash, DES et pas
+ * seulement pour le code SSL. La documentation SSL incluse dans cette
+ * distribution est protégée par les mêmes dispositions de copyright, hormis
+ * le fait que le détenteur est Tim Hudson (tjh@cryptsoft.com).
+ * 
+ * Eric Young demeure le détenteur des droits de copyright. Toute notice
+ * de copyright figurant dans le code ne peut pas être supprimée. Si ce package
+ * est utilisé dans un produit, il sera reconnu à Eric Young la qualité d'auteur
+ * pour les parties de la bibliothèque utilisées que ce soit sous la forme d'un
+ * message au démarrage du programme ou dans la documentation (en ligne ou
+ * texte) livrée avec le package.
+ * 
+ * La redistribution et l'utilisation au format source ou binaire, avec
+ * ou sans modification, sont autorisées sous réserve que les conditions
+ * suivantes soient respectées :
+ * 1. La notice de copyright, la présente liste de conditions et la
+ * clause de protection suivante doivent être conservées dans les
+ * redistributions du code source.
+ * 2. Les redistributions au format binaire doivent faire mention
+ * de la notice de copyright précédente, de la présente liste de conditions
+ * et de l'exclusion de responsabilité suivante dans la documentation et/ou dans
+ * tout autre document fourni avec la distribution.
+ * 3. Tous les éléments de publicité qui font référence aux fonctions
+ * ou à l'utilisation de ce logiciel doivent porter la mention suivante : "Ce
+ * produit comprend un logiciel cryptographique créé par Eric Young 
+ * (eay@cryptsoft.com)." Le mot "cryptographique" peut être omis si les 
+ * sous-programmes de la bibliothèque utilisés ne sont pas liés à la
+ * cryptographie.
+ * 4. Si vous insérez un code spécifique à Windows (ou un de ses dérivés)
+ * à partir du répertoire apps (code d'application), vous devez inclure la
+ * mention : "Ce produit comprend un logiciel créé 
+ * par Tim Hudson (tjh@cryptsoft.com)".
+ *
+ * LE PRESENT LOGICIEL EST LIVRE EN L'ETAT PAR ERIC YOUNG. ERIC YOUNG
+ * N'OFFRE AUCUNE GARANTIE EXPLICITE OU IMPLICITE, NOTAMMENT EN CE
+ * QUI CONCERNE LES GARANTIES DE VALEUR MARCHANDE OU D'ADAPTATION
+ * A VOS BESOINS. EN AUCUN CAS ERIC YOUNG OU SES PARTENAIRES NE
+ * SERONT RESPONSABLES DES PREJUDICES DIRECTS, INDIRECTS, ACCESSOIRES,
+ * SPECIAUX, EXEMPLAIRES OU CONSECUTIFS (NOTAMMENT L'ACQUISITION DE
+ * MARCHANDISES OU DE SERVICES DE REMPLACEMENT, LA PERTE DE L'USAGE
+ * DU PRODUIT, DE DONNEES, DE BENEFICES OU L'INTERRUPTION DES
+ * ACTIVITES) QUELLE QU'EN SOIT LA CAUSE ET QUEL QUE SOIT LE
+ * FONDEMENT DU RECOURS EN RESPONSABILITE, CONTRACTUEL,
+ * RESPONSABILITE LEGALE OU FAUTE (NEGLIGENCE OU AUTRE COMPRIS), LIES
+ * D'UNE MANIERE QUELCONQUE A L'UTILISATION DE CE LOGICIEL MEME SI LA
+ * POSSIBILITE DE TELS DOMMAGES A ETE MENTIONNEE.
+ * 
+ * Les conditions de licence et de distribution pour toutes les versions
+ * disponibles au public ou pour les dérivés de ce code ne peuvent pas
+ * être modifiées. En d'autres termes, ce code ne peut pas être simplement
+ * copié et affecté à une autre licence de distribution
+ * (licence publique GNU incluse).
+ */
+
