@@ -25,12 +25,12 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/erfan2255/PTS2"><strong>Download PTS2 Here</strong></a>
+    <a href="https://erfan2255/PTS2/releases"><strong>Download PTS2 Here</strong></a>
     <br />
     <br />
-    <a href="https://github.com/erfan2255/PTS2">View Demo</a>
+    <a href="https://youtube.com/@coreland2">Youtube</a>
     ·
-    <a href="https://github.com/erfan2255/PTS2">Report Bug</a>
+    <a href="https://t.me/coreland">Telegram</a>
     ·
     <a href="[github.com/erfan2255/PTS2](https://github.com/erfan2255/PTS2)">Request Feature</a>
   </p>
