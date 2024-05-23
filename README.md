@@ -25,7 +25,7 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/erfan2255/PTS2"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/erfan2255/PTS2"><strong>Download PTS2 Here</strong></a>
     <br />
     <br />
     <a href="https://github.com/erfan2255/PTS2">View Demo</a>
