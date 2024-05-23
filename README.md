@@ -23,7 +23,7 @@
   <h3 align="center">Play The Sims 2 (PTS2)</h3>
 
   <p align="center">
-    Play The Sims 2 PC game on android device for free!
+    Play The Sims 2 PC game on any android device!
     <br />
     <a href="https://github.com/erfan2255/PTS2/releases"><strong>Download PTS2 Here</strong></a>
     <br />
