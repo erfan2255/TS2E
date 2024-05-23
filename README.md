@@ -17,7 +17,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/erfan2255/PTS2">
-    <img src="images/logo.png" alt="Logo" width="1280" height="720">
+    <img src="images/logo.png" alt="Logo">
   </a>
 
   <h3 align="center">Play The Sims 2 (PTS2)</h3>
