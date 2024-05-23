@@ -20,7 +20,7 @@
     <img src="images/logo.png" alt="Logo" width="1280" height="720">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Play The Sims 2 (PTS2)</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
