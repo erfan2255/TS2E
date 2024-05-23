@@ -32,7 +32,7 @@
     ·
     <a href="https://t.me/coreland">Telegram</a>
     ·
-    <a href="[github.com/erfan2255/PTS2](https://github.com/erfan2255/PTS2)">Request Feature</a>
+    <a href="[github.com/erfan2255/PTS2](https://55woodlandrive.tumblr.com/post/643865013442969600/this-is-a-re-upload-of-g4tws-the-sims-2-origin)">The Sims 2 Ultimate Collection</a>
   </p>
 </div>
 
