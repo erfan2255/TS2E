@@ -13,7 +13,7 @@
     <br />
     <a href="https://youtube.com/@coreland2">Youtube</a>
     ·
-    <a href="https://55woodlandrive.tumblr.com/post/643865013442969600/this-is-a-re-upload-of-g4tws-the-sims-2-origin">The Sims 2 Ultimate Collection</a>
+    <a href="https://55woodlandrive.tumblr.com/post/643865013442969600/this-is-a-re-upload-of-g4tws-the-sims-2-origin">The Sims 2 Origin UC</a>
     ·
     <a href="https://t.me/coreland">Telegram</a>
   </p>
@@ -49,7 +49,7 @@ Download `TS2E Installer` in release section.
    ```sh
    C:\The Sims 2 Ultimate Collection\(Nightlife,Pets,Seasons folders...) 
    ```
-4. Now run TS2E, for first time select Touchup installer and then go for engines. Enjoy!
+4. Now run TS2E, for first time select Touchup Installer and then go for engines. Enjoy!
 * installer only works on origin other repacks not work properly
 * you dont have to run touchup from `__installer` or edit Eps reg in regedit, I made it automate
 * also uninstaller included to remove csbin & tsbin of each engine (tsdata will not be removed)
@@ -64,8 +64,8 @@ If you find TS2E useful, subscribe CoreLand youtube channel. Thanks :)
 
 This guide helps you to understand which Expansion Packs & Stuff Packs are working on each Engines
 * EP1 is not working due to lack of University No-CD patch so Engines limited from Base, EP2 to EP8
-* Highly recommended to backup your sims save before changing engine to avoid game corruption
-* If worlds not loaded correctly remove old save and try again
+* highly recommended to backup your sims save before changing engine to avoid game corruption
+* if worlds not loaded correctly remove old save and try again
 <div align="center">
   <a href="https://github.com/erfan2255/TS2E/blob/main/images/engineguide.png">
     <img src="images/engineguide.png" alt="enguide">
