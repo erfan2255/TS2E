@@ -67,7 +67,7 @@ This guide helps you to understand which Expansion Packs & Stuff Packs are worki
 * Highly recommended to backup your sims save before changing engine to avoid game corruption
 * If worlds not loaded correctly remove old save and try again
 <div align="center">
-  <a href="https://github.com/erfan2255/TS2E">
+  <a href="https://github.com/erfan2255/TS2E/blob/main/images/engineguide.png">
     <img src="images/engineguide.png" alt="enguide">
   </a>
   </div>
