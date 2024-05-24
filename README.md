@@ -42,7 +42,8 @@ Download `TS2E Installer` in release section.
 ### Installation
 
 1. Download The Sims 2 Origin Ultimate Collection (G4TW). get it from [here](https://55woodlandrive.tumblr.com/post/643865013442969600/this-is-a-re-upload-of-g4tws-the-sims-2-origin)
-* only works on origin other repacks not work properly
+
+only works on origin other repacks not work properly
 2. Download [TS2E Installer](https://55woodlandrive.tumblr.com/post/643865013442969600/this-is-a-re-upload-of-g4tws-the-sims-2-origin) 
 3. Extract it then move `The Sims 2 Ultimate Collection` folder in drive c like directory below: 
    ```sh
