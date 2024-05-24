@@ -63,7 +63,6 @@ This guide helps you to understand which Expansion Packs & Stuff Packs are worki
 * EP1 is not working due to lack of University crack so Engines limited from Base,EP2 to EP8
 * Highly recommended to backup your sims save before changing engine to avoid game corruption
 * If worlds not loaded correctly remove old save and try again
-<br />
 <div align="center">
   <a href="https://github.com/erfan2255/TS2E">
     <img src="images/engineguide.png" alt="enguide">
