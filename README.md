@@ -59,18 +59,22 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- ENGINE GUIDE -->
 ## Engine Guide
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This guide helps you to understand which Expansion Packs & Stuff Packs are working on each Engines
+* EP1 is not working due to lack of University crack so Engines limited from Base,EP2 to EP8
+* Highly recommended to backup your sims save before changing engine to avoid game corruption
+* If worlds not loaded correctly remove old save and try again
 <br />
 <div align="center">
   <a href="https://github.com/erfan2255/TS2E">
     <img src="images/engineguide.png" alt="enguide">
   </a>
   </div>
-_For more examples, please refer to the [Documentation](https://example.com)_
+  
 
 
-<!-- FOLLOW CORELAND ON -->
-## Follow CoreLand on
+
+<!-- FOLLOW CORELAND -->
+## Follow CoreLand
 
 [Youtube Channel](https://youtube.com/@coreland2)
 
