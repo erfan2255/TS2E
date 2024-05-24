@@ -72,6 +72,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- FOLLOW CORELAND ON -->
 ## Follow CoreLand on
 
-[Yotube](https://twitter.com/your_username)
+[Youtube Channel](https://youtube.com/@coreland2)
 
-[Telegram](https://github.com/your_username/repo_name)
+[Telegram Channel](https://t.me/coreland)
