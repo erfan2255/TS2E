@@ -25,14 +25,14 @@
 Simple and easy installer to change game engine from older engine like Base Game to Apartment Life (EP8). University expansion (EP1) not works
 
 Engines supported:
-- Base Game
-- Nightlife (EP2)
-- Open For Business (EP3)
+* Base Game
+* Nightlife (EP2)
+* Open For Business (EP3)
 * Pets (EP4)
- Seasons (EP5)
- Bon Voyage (EP6)
- FreeTime (EP7)
- Apartment Life (EP8)
+* Seasons (EP5)
+* Bon Voyage (EP6)
+* FreeTime (EP7)
+* Apartment Life (EP8)
 
 Download `TS2E Installer` in release section.
 
