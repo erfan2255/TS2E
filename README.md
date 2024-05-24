@@ -66,7 +66,7 @@ Use this space to show useful examples of how a project can be used. Additional 
     <img src="images/engine guide.jpg" alt="enguide">
   </a>
 _For more examples, please refer to the [Documentation](https://example.com)_
-
+</div>
 
 <!-- FOLLOW CORELAND ON -->
 ## Follow CoreLand on
