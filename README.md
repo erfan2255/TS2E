@@ -1,5 +1,3 @@
-
-
 <!-- Improved compatibility of back to top link: See: https://github.com/erfan2255/PTS2 -->
 <a name="readme-top"></a>
 
