@@ -42,13 +42,13 @@ Download `TS2E Installer` in release section.
 ### Installation
 
 1. Download The Sims 2 Origin Ultimate Collection (G4TW). get it from [here](https://55woodlandrive.tumblr.com/post/643865013442969600/this-is-a-re-upload-of-g4tws-the-sims-2-origin)
- * only for origin other repacks not work properly
 2. Download [TS2E Installer](https://55woodlandrive.tumblr.com/post/643865013442969600/this-is-a-re-upload-of-g4tws-the-sims-2-origin) 
 3. Extract it then move `The Sims 2 Ultimate Collection` folder in drive c like directory below: 
    ```sh
    C:\The Sims 2 Ultimate Collection\(Nightlife,Pets,Seasons folders...) 
    ```
 4. Now run TS2E and choose one of engines. Enjoy!
+* installer only works on origin other repacks not work properly
 * you dont have to edit reg in regeditor, I made it automate
 * also uninstaller included to remove csbin & tsbin of each engine (tsdata will not be removed)
 * to play mansion engine again select touchup installer
