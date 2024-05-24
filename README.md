@@ -22,7 +22,7 @@
 <!-- THE SIMS 2 ENGINE -->
 ## The Sims 2 Engine
 
-Simple and easy installer to change game engine from older engine like Base Game to Apartment Life (EP8).
+Simple and easy installer to change game engine from older engine like Base Game to Apartment Life (EP8)
 
 University Engine (EP1) not works
 
