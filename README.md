@@ -8,7 +8,7 @@
   <h3 align="center">The Sims 2 Engine (TS2E)</h3>
 
   <p align="center">
-    Play The Sims 2 PC game on any android device!
+    Play every engine of the sims 2 with one click
     <br />
     <a href="https://github.com/erfan2255/PTS2/releases"><strong>Download TS2E Here</strong></a>
     <br />
