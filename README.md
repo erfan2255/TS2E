@@ -38,7 +38,6 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- INSTALLATION -->
@@ -56,7 +55,6 @@ _Below is an example of how you can instruct your audience on installing and set
    npm install
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ENGINE GUIDE -->
 ## Engine Guide
@@ -65,7 +63,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- FOLLOW CORELAND ON -->
@@ -74,5 +71,3 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 [Yotube](https://twitter.com/your_username)
 
 [Telegram](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
