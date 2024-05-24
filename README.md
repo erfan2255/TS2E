@@ -1,5 +1,4 @@
 <!-- PROJECT BANNER -->
-<br />
 <div align="center">
   <a href="https://github.com/erfan2255/TS2E">
     <img src="images/banner.png" alt="BANNER">
