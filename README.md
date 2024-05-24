@@ -22,37 +22,35 @@
 <!-- THE SIMS 2 ENGINE -->
 ## The Sims 2 Engine
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Simple and easy installer to change game engine from older engine like Base Game to Apartment Life (EP8). University expansion (EP1) not works
+Engines supported:
+Base Game
+Nightlife
+Open For Business
+Pets
+Seasons
+Bon Voyage
+FreeTime
+Apartment Life
 
-### Built With
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
-
+Download `TS2E Installer` in release section.
 
 <!-- INSTALLATION -->
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Download The Sims 2 Origin Ultimate Collection (G4TW). get it from [here](https://55woodlandrive.tumblr.com/post/643865013442969600/this-is-a-re-upload-of-g4tws-the-sims-2-origin)
+* only works on origin other repacks not work properly
+. Download [TS2E Installer](https://55woodlandrive.tumblr.com/post/643865013442969600/this-is-a-re-upload-of-g4tws-the-sims-2-origin) 
+3. Extract it then move `The Sims 2 Ultimate Collection` folder in drive c like directory below: 
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   C:\The Sims 2 Ultimate Collection\(Nightlife,Pets,Seasons folders...) 
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
+4. Now run TS2E and choose one of engines. Enjoy!
+* you dont have to edit reg in regeditor, I made it automate
+* also uninstaller included to remove csbin & tsbin of each engine (tsdata will not be removed)
+* to play mansion engine again select touchup installer
 
+If you find TS2E useful, subscribe coreland on youtube for support. thx ^^
 
 <!-- ENGINE GUIDE -->
 ## Engine Guide
