@@ -65,8 +65,9 @@ Use this space to show useful examples of how a project can be used. Additional 
   <a href="https://github.com/erfan2255/TS2E">
     <img src="images/engine guide.jpg" alt="enguide">
   </a>
+  </div>
 _For more examples, please refer to the [Documentation](https://example.com)_
-</div>
+
 
 <!-- FOLLOW CORELAND ON -->
 ## Follow CoreLand on
