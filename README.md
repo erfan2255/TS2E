@@ -73,8 +73,8 @@ This guide helps you to understand which Expansion Packs & Stuff Packs are worki
 
 
 
-<!-- FOLLOW CORELAND -->
-## Follow CoreLand
+<!-- CORELAND LINKS -->
+## CoreLand Links
 
 [Youtube Channel](https://youtube.com/@coreland2)
 
