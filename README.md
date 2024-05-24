@@ -10,7 +10,7 @@
   <p align="center">
     Play every engine of the sims 2 with one click
     <br />
-    <a href="https://github.com/erfan2255/PTS2/releases"><strong>Download TS2E Here</strong></a>
+    <a href="https://github.com/erfan2255/TS2E/releases"><strong>Download TS2E Here</strong></a>
     <br />
     <br />
     <a href="https://youtube.com/@coreland2">Youtube</a>
