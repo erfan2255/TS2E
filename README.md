@@ -23,15 +23,16 @@
 ## The Sims 2 Engine
 
 Simple and easy installer to change game engine from older engine like Base Game to Apartment Life (EP8). University expansion (EP1) not works
+
 Engines supported:
-Base Game
-Nightlife
-Open For Business
-Pets
-Seasons
-Bon Voyage
-FreeTime
-Apartment Life
+1. Base Game
+2. Nightlife
+3. Open For Business
+4. Pets
+5. Seasons
+6. Bon Voyage
+7. FreeTime
+8. Apartment Life
 
 Download `TS2E Installer` in release section.
 
