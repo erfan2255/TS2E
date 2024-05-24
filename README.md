@@ -63,7 +63,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 <br />
 <div align="center">
   <a href="https://github.com/erfan2255/TS2E">
-    <img src="images/banner.png" alt="BANNER">
+    <img src="images/engine guide.jpg" alt="enguide">
   </a>
 _For more examples, please refer to the [Documentation](https://example.com)_
 
