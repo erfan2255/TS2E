@@ -58,7 +58,7 @@ _Below is an example of how you can instruct your audience on installing and set
 ## Engine Guide
 
 This guide helps you to understand which Expansion Packs & Stuff Packs are working on each Engines
-* EP1 is not working due to lack of University crack so Engines limited from Base,EP2 to EP8
+* EP1 is not working due to lack of University crack so Engines limited from Base, EP2 to EP8
 * Highly recommended to backup your sims save before changing engine to avoid game corruption
 * If worlds not loaded correctly remove old save and try again
 <div align="center">
