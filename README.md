@@ -25,7 +25,7 @@
   <p align="center">
     Play The Sims 2 PC game on any android device!
     <br />
-    <a href="https://github.com/erfan2255/PTS2/releases"><strong>Download PTS2 Here</strong></a>
+    <a href="https://github.com/erfan2255/PTS2/releases"><strong>Download TS2E Here</strong></a>
     <br />
     <br />
     <a href="https://youtube.com/@coreland2">Youtube</a>
