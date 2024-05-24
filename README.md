@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/erfan2255/TS2E">
-    <img src="images/banner.jpg" alt="Logo">
+    <img src="images/banner.png" alt="Logo">
   </a>
 
   <h3 align="center">The Sims 2 Engine (TS2E)</h3>
