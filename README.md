@@ -49,9 +49,9 @@ Download `TS2E Installer` in release section.
    ```sh
    C:\The Sims 2 Ultimate Collection\(Nightlife,Pets,Seasons folders...) 
    ```
-4. Now run TS2E and choose one of engines. Enjoy!
+4. Now run TS2E, for first time select Touchup installer and then go for engines. Enjoy!
 * installer only works on origin other repacks not work properly
-* you dont have to edit reg in regeditor, I made it automate
+* you dont have to install touchup from __installer or edit Eps reg in regedit, I made it automate
 * also uninstaller included to remove csbin & tsbin of each engine (tsdata will not be removed)
 * to play mansion engine again select touchup installer
 
