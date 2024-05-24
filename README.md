@@ -24,7 +24,7 @@
 
 Simple and easy installer to change game engine from older engine like Base Game to Apartment Life (EP8)
 
-Latest The Sims 2 Engines is Mansion & Garden Stuff (2008) by default and difficult to change it manully or mostly tough to play older sims2 titles so using this installer make it possible to run engine you're looking for
+Latest The Sims 2 Engines is Mansion & Garden Stuff (2008) by default and difficult to change it manully or mostly tough to play older sims 2 titles so using this installer make it possible to run engine you're looking for
 
 University Engine (EP1) not works
 
