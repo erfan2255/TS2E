@@ -53,7 +53,7 @@ Download `TS2E Installer` in release section.
 * also uninstaller included to remove csbin & tsbin of each engine (tsdata will not be removed)
 * to play mansion engine again select touchup installer
 
-If you find TS2E useful, subscribe CoreLand on youtube for support. thx ^^ 
+If you find TS2E useful, subscribe CoreLand youtube channel. thx ^^ 
 
 [Youtube](https://youtube.com/@coreland2)
 
