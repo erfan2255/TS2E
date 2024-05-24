@@ -17,7 +17,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/erfan2255/PTS2">
-    <img src="images/logo.png" alt="Logo">
+    <img src="images/image.jpg" alt="Logo">
   </a>
 
   <h3 align="center">The Sims 2 Engine (TS2E)</h3>
