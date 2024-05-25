@@ -28,7 +28,7 @@ Latest The Sims 2 Engine is Mansion & Garden Stuff (2008) applied by default and
 
 University Engine (EP1) not works
 
-Engines supported:
+Supported Engines:
 * Base Game
 * Nightlife (EP2)
 * Open For Business (EP3)
