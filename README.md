@@ -38,7 +38,7 @@ Supported Engines:
 * FreeTime (EP7)
 * Apartment Life (EP8)
 
-Download `TS2E Installer` in release section.
+Check out Engine Guide list to see which Expansions & Stuffs Packs are supported
 
 <!-- INSTALLATION -->
 ### Installation
