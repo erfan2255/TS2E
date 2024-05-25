@@ -24,7 +24,7 @@
 
 Simple and easy installer to change game engine to older engines from Base Game to Apartment Life (EP8)
 
-Latest The Sims 2 Engine is Mansion & Garden Stuff (2008) applied by default and difficult to change it manully or mostly tough for users to play older sims 2 titles so using this installer make it possible to choose optional engine to play sims
+Latest The Sims 2 Engine is Mansion & Garden Stuff (2008) applied by default and difficult to change it manually or mostly hard for users to play older Sims 2 titles so using this installer make it possible to choose optional engine to play Sims
 
 University Engine (EP1) not works
 
@@ -38,7 +38,7 @@ Supported Engines:
 * FreeTime (EP7)
 * Apartment Life (EP8)
 
-Check out Engine Guide list to see which expansions & stuffs packs are supported
+Check the Engine Guide list to see which expansions & stuff packs are supported
 
 <!-- INSTALLATION -->
 ## Installation
@@ -52,11 +52,11 @@ Check out Engine Guide list to see which expansions & stuffs packs are supported
    C:\The Sims 2 Ultimate Collection\(Nightlife,Pets,Seasons folders...) 
    ```
 4- Run TS2E, for first time select Touchup Installer and then go for engines. Enjoy!
-* installer only works on origin, other repacks will not work properly
-* you can delete later packs that were released after you selected the engine to free up space
-* you dont have to run touchup from `__installer` folder, I made it automate for touchup installer
-* also includes an uninstaller to remove csbin & tsbin from each engine (tsdata will not be removed).
-* to play mansion engine again select touchup installer
+* Installer only works on origin, other repacks will not work properly
+* You can delete later packs that were released after you selected the engine to free up space
+* You dont have to run touchup from `__installer` folder, I made it automate for touchup installer
+* Also includes an uninstaller to remove csbin & tsbin from each engine (tsdata will not be removed)
+* To play mansion engine again select touchup installer
 
 If you find TS2E useful, subscribe CoreLand youtube channel. Thanks :)
 
@@ -65,10 +65,10 @@ If you find TS2E useful, subscribe CoreLand youtube channel. Thanks :)
 <!-- ENGINE GUIDE -->
 ## Engine Guide
 
-This guide will help you find out which Expansion Packs & Stuff Packs will work on each Engine.
+This guide will help you find out which Expansion Packs & Stuff Packs will work on each Engine
 * EP1 does not work due to lack of University No-CD patch, so Engines limited to base, EP2 to EP8
-* it is highly recommended to back up your Sims save before switching engines to avoid game corruption.
-* If worlds fail to load properly remove the old save and try again.
+* It is highly recommended to back up your Sims save before switching engines to avoid game corruption
+* If worlds fail to load properly remove the old save and try again
 <div align="center">
   <a href="https://github.com/erfan2255/TS2E/blob/main/images/engineguide.png">
     <img src="images/engineguide.png" alt="enguide">
