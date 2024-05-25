@@ -54,9 +54,9 @@ Check the Engine Guide list to see which expansions & stuff packs are supported
 4- Run TS2E, for first time select Touchup Installer and then go for engines. Enjoy!
 * Installer only works on origin, other repacks will not work properly
 * You can delete later packs that were released after you selected the engine to free up space
-* You dont have to run touchup from `__installer` folder, I made it automate for touchup installer
-* Also includes an uninstaller to remove csbin & tsbin from each engine (tsdata will not be removed)
-* To play mansion engine again select touchup installer
+* You dont need to run touchup from `__installer` folder, I have automated it for touchup installer.
+* Also includes an uninstaller to remove csbin & tsbin from any engine (tsdata will not be removed)
+* To play the mansion engine again select touchup installer
 
 If you find TS2E useful, subscribe CoreLand youtube channel. Thanks :)
 
