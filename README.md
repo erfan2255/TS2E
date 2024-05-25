@@ -24,7 +24,7 @@
 
 Simple and easy installer to change game engine to older engines from Base Game to Apartment Life (EP8)
 
-Latest The Sims 2 Engine is Mansion & Garden Stuff (2008) applied by default and difficult to change it manully or mostly tough for users to play older sims 2 titles so using this installer make it possible to select optional engine to play sims
+Latest The Sims 2 Engine is Mansion & Garden Stuff (2008) applied by default and difficult to change it manully or mostly tough for users to play older sims 2 titles so using this installer make it possible to choose optional engine to play sims
 
 University Engine (EP1) not works
 
@@ -51,7 +51,7 @@ Download `TS2E Installer` in release section.
    ```
 4. Now run TS2E, for first time select Touchup Installer and then go for engines. Enjoy!
 * installer only works on origin other repacks not work properly
-* you can delete later packs that released after selected engine to free storage
+* you can delete later packs that released after choosing the engine to free up storage
 * you dont have to run touchup from `__installer` folder, I made it automate for touchup installer
 * also uninstaller included to remove csbin & tsbin of each engine (tsdata will not be removed)
 * to play mansion engine again select touchup installer
