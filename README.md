@@ -38,7 +38,7 @@ Supported Engines:
 * FreeTime (EP7)
 * Apartment Life (EP8)
 
-Check out Engine Guide list to see which Expansions & Stuffs Packs are supported
+Check out Engine Guide list to see which expansions & stuffs packs are supported
 
 <!-- INSTALLATION -->
 ### Installation
