@@ -43,15 +43,15 @@ Check out Engine Guide list to see which expansions & stuffs packs are supported
 <!-- INSTALLATION -->
 ## Installation
 
-1. Download The Sims 2 Origin Ultimate Collection (G4TW) get it from [here](https://55woodlandrive.tumblr.com/post/643865013442969600/this-is-a-re-upload-of-g4tws-the-sims-2-origin)
+1- Download The Sims 2 Origin Ultimate Collection (G4TW) get it from [here](https://55woodlandrive.tumblr.com/post/643865013442969600/this-is-a-re-upload-of-g4tws-the-sims-2-origin)
 
-2. Download [TS2E Installer](https://github.com/erfan2255/TS2E/releases) 
+2- Download [TS2E Installer](https://github.com/erfan2255/TS2E/releases) 
 
-3. Extract it and move `The Sims 2 Ultimate Collection` folder in drive c like directory below: 
+3- Extract it and move `The Sims 2 Ultimate Collection` folder in drive c like directory below: 
    ```sh
    C:\The Sims 2 Ultimate Collection\(Nightlife,Pets,Seasons folders...) 
    ```
-4. Now run TS2E, for first time select Touchup Installer and then go for engines. Enjoy!
+4- Now run TS2E, for first time select Touchup Installer and then go for engines. Enjoy!
 * installer only works on origin other repacks not work properly
 * you can delete later packs that released after choosing the engine to free up storage
 * you dont have to run touchup from `__installer` folder, I made it automate for touchup installer
