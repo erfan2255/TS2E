@@ -51,7 +51,7 @@ Check out Engine Guide list to see which expansions & stuffs packs are supported
    ```sh
    C:\The Sims 2 Ultimate Collection\(Nightlife,Pets,Seasons folders...) 
    ```
-4- Now run TS2E, for first time select Touchup Installer and then go for engines. Enjoy!
+4- Run TS2E, for first time select Touchup Installer and then go for engines. Enjoy!
 * installer only works on origin other repacks not work properly
 * you can delete later packs that released after choosing the engine to free up storage
 * you dont have to run touchup from `__installer` folder, I made it automate for touchup installer
