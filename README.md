@@ -52,10 +52,10 @@ Check out Engine Guide list to see which expansions & stuffs packs are supported
    C:\The Sims 2 Ultimate Collection\(Nightlife,Pets,Seasons folders...) 
    ```
 4- Run TS2E, for first time select Touchup Installer and then go for engines. Enjoy!
-* installer only works on origin other repacks not work properly
-* you can delete later packs that released after choosing the engine to free up storage
+* installer only works on origin, other repacks will not work properly
+* you can delete later packs that were released after you selected the engine to free up space
 * you dont have to run touchup from `__installer` folder, I made it automate for touchup installer
-* also uninstaller included to remove csbin & tsbin of each engine (tsdata will not be removed)
+* also includes an uninstaller to remove csbin & tsbin from each engine (tsdata will not be removed).
 * to play mansion engine again select touchup installer
 
 If you find TS2E useful, subscribe CoreLand youtube channel. Thanks :)
@@ -65,10 +65,10 @@ If you find TS2E useful, subscribe CoreLand youtube channel. Thanks :)
 <!-- ENGINE GUIDE -->
 ## Engine Guide
 
-This guide helps you find out which Expansion Packs & Stuff Packs work on each Engine
-* EP1 is not working due to lack of University No-CD patch so Engines limited from Base, EP2 to EP8
-* highly recommended to backup your sims save before changing engine to avoid game corruption
-* if worlds not loaded correctly remove old save and try again
+This guide will help you find out which Expansion Packs & Stuff Packs will work on each Engine.
+* EP1 does not work due to lack of University No-CD patch, so Engines limited to base, EP2 to EP8
+* it is highly recommended to back up your Sims save before switching engines to avoid game corruption.
+* If worlds fail to load properly remove the old save and try again.
 <div align="center">
   <a href="https://github.com/erfan2255/TS2E/blob/main/images/engineguide.png">
     <img src="images/engineguide.png" alt="enguide">
