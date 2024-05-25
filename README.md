@@ -65,7 +65,7 @@ If you find TS2E useful, subscribe CoreLand youtube channel. Thanks :)
 <!-- ENGINE GUIDE -->
 ## Engine Guide
 
-This guide helps you to understand which Expansion Packs & Stuff Packs are working on each Engines
+This guide helps you find out which Expansion Packs & Stuff Packs work on each Engine
 * EP1 is not working due to lack of University No-CD patch so Engines limited from Base, EP2 to EP8
 * highly recommended to backup your sims save before changing engine to avoid game corruption
 * if worlds not loaded correctly remove old save and try again
