@@ -26,8 +26,6 @@ Simple and easy installer to change game engine to older engines from Base Game 
 
 Latest The Sims 2 Engine is Mansion & Garden Stuff (2008) applied by default and difficult to change it manually or mostly hard for users to play older Sims 2 titles so using this installer make it possible to choose optional engine to play Sims
 
-University Engine (EP1) not works
-
 Supported Engines:
 * Base Game
 * Nightlife (EP2)
@@ -37,6 +35,8 @@ Supported Engines:
 * Bon Voyage (EP6)
 * FreeTime (EP7)
 * Apartment Life (EP8)
+  
+University Engine (EP1) not works
 
 Check the Engine Guide list to see which expansions & stuff packs are supported
 
