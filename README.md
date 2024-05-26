@@ -43,7 +43,7 @@ Check the Engine Guide list to see which expansions & stuff packs are supported
 <!-- INSTALLATION -->
 ## Installation
 
-1- Download The Sims 2 Origin Ultimate Collection (G4TW) from [here](https://55woodlandrive.tumblr.com/post/643865013442969600/this-is-a-re-upload-of-g4tws-the-sims-2-origin) or Standalone Starter Pack from [here](https://github.com/mintalien/The-Puppets-2-Definitive-Edition/releases)
+1- Download The Sims 2 Origin Ultimate Collection from [here](https://55woodlandrive.tumblr.com/post/643865013442969600/this-is-a-re-upload-of-g4tws-the-sims-2-origin) or Standalone Starter Pack from [here](https://github.com/mintalien/The-Puppets-2-Definitive-Edition/releases)
 
 2- Download [TS2E Installer](https://github.com/erfan2255/TS2E/releases) 
 
