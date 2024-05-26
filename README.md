@@ -49,7 +49,7 @@ Check the Engine Guide list to see which expansions & stuff packs are supported
 
 3- Extract the game and move The Sims 2 Ultimate Collection folder to drive c, like the directory below: 
    ```sh
-   C:\The Sims 2 Ultimate Collection\(Nightlife,Pets,Seasons folders...) 
+   C:\The Sims 2 Ultimate Collection\(Nightlife,Pets,Seasons folders) 
    ```
 4- Run TS2E, select Touchup Installer for the first time, then choose Engine. Enjoy!
 * Installer only works on origin, other repacks will not work properly
