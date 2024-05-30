@@ -13,7 +13,7 @@
     <br />
     <a href="https://youtube.com/@coreland2">Youtube</a>
     ·
-    <a href="https://55woodlandrive.tumblr.com/post/643865013442969600/this-is-a-re-upload-of-g4tws-the-sims-2-origin">The Sims 2 Origin UC</a>
+    <a href="github.com/voicemxil/TS2-Starter-Pack">The Sims 2 Starter Pack</a>
     ·
     <a href="https://t.me/coreland">Telegram</a>
   </p>
