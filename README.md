@@ -13,7 +13,7 @@
     <br />
     <a href="https://youtube.com/@coreland2">Youtube</a>
     ·
-    <a href="github.com/voicemxil/TS2-Starter-Pack">The Sims 2 Starter</a>
+    <a href="https://github.com/voicemxil/TS2-Starter-Pack">The Sims 2 Starter</a>
     ·
     <a href="https://t.me/coreland">Telegram</a>
   </p>
