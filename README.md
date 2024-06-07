@@ -8,7 +8,7 @@
   <p align="center">
     Play all engines of the sims 2 with one click
     <br/>
-    <a href="https://github.com/erfan2255/TS2E/releases"><strong>Download TS2E Here</strong></a>
+    <a href="https://github.com/erfan2255/TS2E/releases"><strong>Download TS2E</strong></a>
     <br/>
     <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/erfan2255/ts2e/total">
     <br/>
