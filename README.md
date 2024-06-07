@@ -48,7 +48,7 @@ Check the Engine Guide list to see which expansions & stuff packs are supported
 
 2- Download [TS2E Installer](https://github.com/erfan2255/TS2E/releases) 
 
-3- Extract the game and move The Sims 2 Ultimate Collection folder to drive c, like the directory below: 
+3- Extract the game and move The Sims 2 Ultimate Collection folder to drive c like the directory below: 
    ```sh
    C:\The Sims 2 Ultimate Collection\(Double Deluxe,Seasons folders) 
    ```
