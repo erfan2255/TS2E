@@ -9,8 +9,9 @@
     Play all engines of the sims 2 with one click
     <br/>
     <a href="https://github.com/erfan2255/TS2E/releases"><strong>Download TS2E Here</strong></a>
-    <br />
-    <br />
+    <br/>
+    <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/erfan2255/ts2e/total">
+    <br/>
     <a href="https://youtube.com/@coreland2">Youtube</a>
     ·
     <a href="https://github.com/voicemxil/TS2-Starter-Pack/releases">The Sims 2 Origin UC</a>
