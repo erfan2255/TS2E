@@ -59,9 +59,8 @@ Check the Engine Guide list to see which expansions & stuff packs are supported
 * Also includes an uninstaller to remove csbin & tsbin from any engine (tsdata will not be removed)
 * To play the mansion engine select touchup installer
 
-If you find TS2E useful, subscribe CoreLand youtube channel. Thanks :)
+If you find TS2E useful, subscribe [CoreLand Youtube Channel](https://youtube.com/@coreland2). Thanks :)
 
-[Youtube](https://youtube.com/@coreland2)
 
 <!-- ENGINE GUIDE -->
 ## Engine Guide
