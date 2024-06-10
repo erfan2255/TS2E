@@ -1,6 +1,6 @@
 <!-- PROJECT BANNER -->
 <div align="center">
-  <a href="https://github.com/erfan2255/TS2E">
+  <a <button id="button">
     <img src="images/banner.png" alt="BANNER">
   </a>
 
