@@ -10,6 +10,7 @@
     <br/>
     <a href="https://github.com/erfan2255/TS2E/releases"><strong>Download TS2E</strong></a>
     <br/>
+    <a <button id="button">
     <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/erfan2255/ts2e/total">
     <br/>
     <a href="https://youtube.com/@coreland2">Youtube</a>
